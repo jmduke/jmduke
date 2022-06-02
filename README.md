@@ -1,7 +1,8 @@
-Hello! I work at Stripe during the day and I run Buttondown and Spoonbill.
+I run Buttondown and Spoonbill. Before that, I spent four years at Stripe, where I did things like:
 
-I write about the technology industry, with specific emphases on building and growing projects. 
-I am also prone to a whole lot of navel-gazing, as you are probably soon to discover.
+1. building data products into mature lines of business
+2. managing reporting infrastructure & components used by hundreds of thousands of merchants
+3. running and scaling Stripe's Product Quality initiative
 
 I write and spend time mostly on my personal site, [arcana.computer](https://arcana.computer/).
 
